@@ -1,4 +1,4 @@
-# Creative Writing Assistant
+# AI Agent for Social Media Marketing Content
 
 This project is an AI-based content marketing assistant for LinkedIn and Medium posts. It combines text generation using GPT-4 and image generation using Stable Diffusion to help users create engaging content.
 
