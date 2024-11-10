@@ -14,7 +14,6 @@ This project is an AI-based content marketing assistant for LinkedIn and Medium 
 
    ```bash
    git clone <repository-url>
-   cd Creative-Writing-Assistant
 
    ```
 
